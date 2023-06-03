@@ -1,3 +1,3 @@
 # Conversor de moedas
-cash = float(input('Qual valor gostaria de converter: '))
-print('Com {:.2f} R$\nVocê pode comprar: {:.2f} US$'.format(cash, cash/3.27))
+cash = float(input('Qual valor gostaria de converter? R$  '))
+print('Com R${:.2f}\nVocê pode comprar: US${:.2f}'.format(cash, cash/4.95))
