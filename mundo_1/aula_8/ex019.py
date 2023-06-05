@@ -1,5 +1,8 @@
 # Sorteando um item na lista
 from random import choice
-lista_alunos = ['Pedro', 'João', 'Maria', 'Ana']
-print(lista_alunos)
+a1 = input('Primeiro aluno: ')
+a2 = input('Segundo aluno: ')
+a3 = input('Terceiro aluno: ')
+a4 = input('Quarto aluno: ')
+lista_alunos = [a1, a2, a3, a4]
 print('O aluno sorteado é: {}'.format(choice(lista_alunos)))

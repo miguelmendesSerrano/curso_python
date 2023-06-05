@@ -1,4 +1,4 @@
 # Quebrando um numero
-import math
+from math import trunc
 num = float(input('Digite um numero qualquer: '))
-print('O numero {} tem a parte inteira: {}'.format(num, math.trunc(num)))
+print('O numero {} tem a parte inteira: {}'.format(num, trunc(num)))
