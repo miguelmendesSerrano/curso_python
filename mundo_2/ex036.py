@@ -1,1 +1,0 @@
-# Aprovando Empréstimo
