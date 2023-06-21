@@ -1,7 +1,8 @@
+# Unindo dicionários e listas
 dados = {}
 cadastro = []
 while True:
-    dados['nome'] = str(input('Nome: '))
+    dados['nome'] = str(input('Nome: ')).capitalize()
     dados['sexo'] = str(input('Sexo: [M/F]')).strip().upper()
     while dados['sexo'] not in 'MF':
         dados['sexo'] = str(input('ERRO! Por favor digite apenas M ou F.')).strip().upper()
@@ -27,5 +28,5 @@ for s in range(0, len(cadastro)):
         print(f'{cadastro[s]["nome"]}', end=' ')
 print('\nD) A lista de pessoas que estão acima da média: ')
 for p in range(0, len(cadastro)):
-    if cadastro[p]['idade'] < media:
+    if cadastro[p]['idade'] >= media:
         print(f'nome = {cadastro[p]["nome"]}; sexo = {cadastro[p]["sexo"]}; idade = {cadastro[p]["idade"]}')
