@@ -1,11 +1,11 @@
 
-# Curso Python do [Curso em Vídeo](https://www.cursoemvideo.com/)
+# Curso Python 🐍 do [Curso em Vídeo](https://www.cursoemvideo.com/)
 
-Excelente curso de introdução a Python, lecionado pelo querido prof. [Gustavo Guanabara](https://github.com/gustavoguanabara) que tem uma didática incrível e paixão por ensinar.
+Excelente curso de introdução a Python, lecionado pelo querido prof. [Gustavo Guanabara](https://github.com/gustavoguanabara) 🖖 que tem uma didática incrível e paixão por ensinar.
 
-O curso é todo gamificado dividido em três módulos, ou três "mundos", é totalmente **gratuito** e está disponível no site [Curso em Vídeo](https://www.cursoemvideo.com/) e tambem no [Youtube.](https://www.youtube.com/@CursoemVideo)
+O curso é todo gamificado 🎮 dividido em três módulos, ou três "mundos", é totalmente **gratuito** e está disponível no site [Curso em Vídeo](https://www.cursoemvideo.com/) e tambem no [Youtube.](https://www.youtube.com/@CursoemVideo)
 
-## Mundo 1 
+## Mundo 1 💻
 ### Introdução ao mundo da Programação
 - Aula 1 - Seja um programador
 ### Primeiros passos com o Python
@@ -23,7 +23,7 @@ O curso é todo gamificado dividido em três módulos, ou três "mundos", é tot
 - Aula 10 - Condições (parte 1)
 - Aula 11 - Cores no terminal
 
-## Mundo 2
+## Mundo 2 🦾
 ### Condições em Python (*if...else*)
 - Aula 12 - Condições Aninhadas
 ### Repetições em Python (for)
@@ -32,7 +32,7 @@ O curso é todo gamificado dividido em três módulos, ou três "mundos", é tot
 - Aula 14 - Estrutura de repetição while
 - Aula 15 - Interrompendo repetições while
 
-## Mundo 3
+## Mundo 3 🤯
 ### Tuplas em Python
 - Aula 16 - Tuplas
 ### Listas em Python
